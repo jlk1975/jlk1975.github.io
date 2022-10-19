@@ -1,11 +1,11 @@
 baseURL = "https://jkendall.dev"
-title = "Jason Kendall"
+title = "Jason Kendall 🧔"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
-pygmentsCodeFences = true
+pygmentsCodeFences = tactions rue
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
