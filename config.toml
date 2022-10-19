@@ -1,5 +1,5 @@
 baseURL = "https://jkendall.dev"
-title = "Jason Kendall 🧔"
+title = "Jason Kendall"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Jason Kendall"
+author = "Jason Kendall 🧔"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jason Kendall's personal website"
 keywords = "blog,developer,personal"
@@ -138,7 +138,7 @@ name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
 url = "https://myhugosite.com/index.xml"
-rel = "alternate"
+rel = "alternate"Contact
 type = "application/rss+xml"
 
 [languages.en]
@@ -160,6 +160,6 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact 👋"
+name = "Contact"
 weight = 5
 url = "contact/"
