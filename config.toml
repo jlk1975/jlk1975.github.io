@@ -1,5 +1,5 @@
 baseURL = "https://jkendall.dev"
-title = "Jason Kendall 👋"
+title = "Jason Kendall"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -160,6 +160,6 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact"
+name = "Contact 👋"
 weight = 5
 url = "contact/"
