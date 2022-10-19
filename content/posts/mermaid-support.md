@@ -5,7 +5,7 @@ description = "The post demonstrates Mermaid JS support"
 series = ["Theme", "Hugo"]
 +++
 
-If you want to use [Mermaid-JS](https://mermaid-js.github.io/mermaid/#/) on your website.
+THE VERY BEST FOR SURE. If you want to use [Mermaid-JS](https://mermaid-js.github.io/mermaid/#/) on your website.
 Provide `mermaid` as [Shortcode](https://gohugo.io/content-management/shortcodes/#readout) in your markdown file.
 
 
