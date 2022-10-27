@@ -158,7 +158,7 @@ url = "wiki/"
 name = "Blog"
 weight = 3
 # make posts be a directory again when ready to have a blog.
-url = "posts/"
+url = "blog/"
 
 [[languages.en.menu.main]]
 name = "Contact 👋"
