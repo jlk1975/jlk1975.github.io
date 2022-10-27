@@ -8,8 +8,6 @@ author = "JLK"
 
 I am a seasoned technologist well versed in the following:
 
-Hugo makes use of a variety of open source projects including:
-
 * Python
 * CI/CD Automation
 * DevOps Systems Architecture
