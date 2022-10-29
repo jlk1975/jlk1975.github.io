@@ -8,12 +8,8 @@ author = "JLK"
 
 I am a seasoned technologist well versed in the following:
 
-* Python
-* CI/CD Automation
-* DevOps Systems Architecture
-
-More text here.
-
-More text here.
-
-More text here.
+* DevOps Systems Architecture   
+* Platform Engineering   
+* CI/CD Automation   
+* Observability   
+* Python     
