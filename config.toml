@@ -158,14 +158,12 @@ name = "Wiki 📚"
 weight = 2
 url = "wiki/"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 1
+# url = "about/"
 
-[[languages.en.menu.main]]
-name = "Contact 👋"
-weight = 5
-url = "contact/"
-
-
+# [[languages.en.menu.main]]
+# name = "Contact 👋"
+# weight = 5
+# url = "contact/"
