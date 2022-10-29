@@ -1,5 +1,5 @@
 baseURL = "https://jkendall.dev"
-title = "🏠"
+title = "🏠 HOME"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
