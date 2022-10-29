@@ -16,7 +16,7 @@ author = "Jason Kendall"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jason Kendall's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps 🤖 Engineer", "I ❤️ Automation "]
+info = ["DevOps 🤖 Engineer", "I ❤️ Automation and Observability 👀 🔭"]
 avatarURL = "images/beam80.avif"
 # gravatar = "jkendall1975@gmail.com"
 dateFormat = "January 2, 2006"
