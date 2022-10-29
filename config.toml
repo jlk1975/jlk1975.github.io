@@ -141,8 +141,8 @@ url = "https://medium.com/@jkendall1975"
 # rel = "alternate"
 # type = "application/rss+xml"
 
-[languages.en]
-languageName = ":uk:"
+# [languages.en]
+# languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "Blog 📰"
