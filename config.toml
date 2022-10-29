@@ -150,12 +150,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Wiki 📚"
-weight = 2
-url = "wiki/"
-
-[[languages.en.menu.main]]
-name = "Blog"
+name = "Blog 📰"
 weight = 3
 # make posts be a directory again when ready to have a blog.
 # no dir
@@ -166,3 +161,8 @@ url = "posts"
 name = "Contact 👋"
 weight = 5
 url = "contact/"
+
+[[languages.en.menu.main]]
+name = "Wiki 📚"
+weight = 2
+url = "wiki/"
