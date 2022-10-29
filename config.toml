@@ -145,11 +145,6 @@ url = "https://medium.com/@jkendall1975"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
 name = "Blog 📰"
 weight = 3
 # make posts be a directory again when ready to have a blog.
@@ -157,6 +152,12 @@ weight = 3
 # url = "blog/"
 # with dir 
 url = "posts" 
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
 [[languages.en.menu.main]]
 name = "Contact 👋"
 weight = 5
