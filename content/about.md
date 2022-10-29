@@ -13,3 +13,4 @@ I am a seasoned technologist well versed in the following:
 * CI/CD Automation   
 * Observability   
 * Python     
+* Coffee Consumption ☕
