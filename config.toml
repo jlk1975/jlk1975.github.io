@@ -146,7 +146,7 @@ url = "https://medium.com/@jkendall1975"
 
 [[languages.en.menu.main]]
 name = "Blog 📰"
-weight = 3
+weight = 1
 # make posts be a directory again when ready to have a blog.
 # no dir
 # url = "blog/"
@@ -158,12 +158,12 @@ name = "Wiki 📚"
 weight = 2
 url = "wiki/"
 
-# [[languages.en.menu.main]]
-# name = "About"
-# weight = 1
-# url = "about/"
+[[languages.en.menu.main]]
+name = "About"
+weight = 3
+url = "about/"
 
-# [[languages.en.menu.main]]
-# name = "Contact 👋"
-# weight = 5
-# url = "contact/"
+[[languages.en.menu.main]]
+name = "Contact 👋"
+weight = 4
+url = "contact/"
