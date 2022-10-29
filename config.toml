@@ -154,6 +154,11 @@ weight = 3
 url = "posts" 
 
 [[languages.en.menu.main]]
+name = "Wiki 📚"
+weight = 2
+url = "wiki/"
+
+[[languages.en.menu.main]]
 name = "About"
 weight = 1
 url = "about/"
@@ -163,7 +168,4 @@ name = "Contact 👋"
 weight = 5
 url = "contact/"
 
-[[languages.en.menu.main]]
-name = "Wiki 📚"
-weight = 2
-url = "wiki/"
+
