@@ -6,7 +6,7 @@ date = "2022-10-29"
 author = "JLK"
 +++
 
-I am a seasoned technologist well versed in the following:
+Seasoned technologist well versed in ...
 
 * DevOps Systems Architecture   
 * Platform Engineering   
