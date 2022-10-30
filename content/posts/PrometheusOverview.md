@@ -6,6 +6,7 @@ description = "Prometheus Overview"
 tags = [
     "observability",
 ]
+featuredImage = "images/beam80.avif"
 +++
 
 * Prometheus scrapes HTTP endpoints to get it’s data.  
@@ -16,3 +17,6 @@ tags = [
 * PromQL - Prometheus’s query language   
 * Read-only query language  
 *  Allows aggregation across any of the labels stored in it’s time series data.  
+* Stores metrics on memory and local disk, runs on single server nodes, not a cluster.  
+* Has it's own alert manager.  
+* 
