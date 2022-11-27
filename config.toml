@@ -145,7 +145,7 @@ url = "https://medium.com/@jkendall1975"
 # languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Resume"
+name = "Resume 🗎"
 weight = 1
 url = "resume/"
 
@@ -164,7 +164,7 @@ weight = 3
 url = "wiki/"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About 🤵"
 weight = 4
 url = "about/"
 
