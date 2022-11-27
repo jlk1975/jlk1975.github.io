@@ -147,7 +147,7 @@ url = "https://medium.com/@jkendall1975"
 [[languages.en.menu.main]]
 name = "Resume 🗎"
 weight = 1
-url = "resume/resume.html"
+url = "resume/"
 
 [[languages.en.menu.main]]
 name = "Blog 📰"
