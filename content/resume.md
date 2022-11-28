@@ -195,6 +195,10 @@ Education & Certifications
 1994-2000
 :   **BS, Biology**; University of North Carolina at Charlotte.
 
+2022
+:   **Comptia Network+ Certification**; In Progress.
+:   **Comptia Security+ Certification**; In Progress.
+
 
 Hobbies
 ----------------------------------------
