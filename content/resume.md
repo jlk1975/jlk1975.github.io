@@ -3,11 +3,22 @@ Jason Kendall
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Software engineer with automation and DevOps expertise.
 
 ----
+
+Skills Summary
+----------
+
+**Cloud & DevOps:**
+Splunk, VarnishCDN, Kubernetes, helm, YAML, Docker,  Rancher, Artifactory, Jenkins pipelines. AWS, Terraform, Spinnaker, VSTS, DevOps Architecture & Strategy, SonatypeNexus Pro, SonarQube 
+
+**Development:**
+Python, Groovy, PowerShell, bash, git, svn, JSON,YAML
+
+**Additional Competencies:**
+Configuration Management, Tech management / leadership, Linux, Disaster Recovery planning and design, Systems design/ architecture
+
 
 Experience
 ----------
