@@ -23,7 +23,8 @@ Configuration Management, Tech management / leadership, Linux, Disaster Recovery
 Professional Experience
 ----------
 
-**Sr. Architect @ Manpower Group [Oct 2022 - Present]**
+**Sr. Architect @ Manpower Group**
+**Oct 2022 - Present**
 
 VarnishCDN implementation, need to add details:
 
@@ -32,7 +33,8 @@ VarnishCDN implementation, need to add details:
 * tbd [link](https://www.varnish-software.com/). 
 
 
-**DevOps Engineer @ MUFG Union Bank [Aug 2021 - Oct 2022]**
+**DevOps Engineer @ MUFG Union Bank**
+**Aug 2021 - Oct 2022**
 
 - Worked with the EMP Dev team to coordinate onboarding their apps onto the existing CI/CD Service.
 - As part of the Credit Risk Technology DevOps (CRT DevOps) Team, standardized and streamlined a very disjointed and unorganized CI/CD onboarding process to make life much easier on the EMP development team.
