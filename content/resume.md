@@ -10,11 +10,14 @@ Jason Kendall
 Skills Summary
 ----------
 
-**Cloud & DevOps:**
-Splunk, VarnishCDN, Kubernetes, helm, YAML, Docker,  Rancher, Artifactory, Jenkins pipelines. AWS, Terraform, Spinnaker, VSTS, DevOps Architecture & Strategy, SonatypeNexus Pro, SonarQube 
+**DevOps, Automation, Cloud:**
+VarnishCDN, Kubernetes, helm, YAML, Docker,  Rancher, Artifactory, Jenkins pipelines. AWS, Terraform, Spinnaker, VSTS, DevOps Architecture & Strategy, SonatypeNexus Pro, SonarQube 
 
 **Development:**
 Python, Groovy, Golang, PowerShell, bash, git, svn, JSON,YAML
+
+**Observability:**
+SignalFX, Splunk
 
 **Additional Competencies:**
 Configuration Management, Tech management / leadership, Linux, Disaster Recovery planning and design, Systems design/ architecture
