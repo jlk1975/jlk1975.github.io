@@ -29,12 +29,10 @@ Professional Experience
 **Sr. Architect @ Manpower Group**  
 **Oct 2022 - Present**
 
-VarnishCDN implementation, need to add details:
-
-* VarnishCDN
-
-* tbd [link](https://www.varnish-software.com/). 
-
+- VarnishCDN implementation, more details to come.
+- TBD [link](https://www.varnish-software.com/). 
+- TBD
+- TBD
 
 **DevOps Engineer @ MUFG Union Bank**  
 **Aug 2021 - Oct 2022**
