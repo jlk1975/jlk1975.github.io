@@ -29,8 +29,7 @@ Professional Experience
 **Sr. Architect @ Manpower Group**  
 **Oct 2022 - Present**
 
-- VarnishCDN implementation, more details to come.
-- TBD [link](https://www.varnish-software.com/). 
+- CDN design & implementation, more details to come.
 - TBD
 - TBD
 
