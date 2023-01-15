@@ -146,30 +146,26 @@ url = "https://medium.com/@jkendall1975"
 # languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Resume 🗎"
-weight = 1
-url = "resume/"
-
-[[languages.en.menu.main]]
 name = "Portfolio 📰"
-weight = 2
-# make posts be a directory again when ready to have a blog.
-# no dir
-# url = "blog/"
-# with dir 
+weight = 1
 url = "portfolio/" 
 
 [[languages.en.menu.main]]
-name = "Wiki 📚"
-weight = 3
-url = "wiki/"
+name = "Resume 🗎"
+weight = 2
+url = "resume/"
 
 [[languages.en.menu.main]]
 name = "About 🤵"
-weight = 4
+weight = 3
 url = "about/"
 
 [[languages.en.menu.main]]
 name = "Contact 👋"
-weight = 5
+weight = 4
 url = "contact/"
+
+# [[languages.en.menu.main]]
+# name = "Wiki 📚"
+# weight = 5
+# url = "wiki/"
