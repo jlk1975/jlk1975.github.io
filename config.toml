@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Jason Kendall"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Jason Kendall's personal website"
-keywords = "blog,developer,personal"
+keywords = "blog,developer,portfolio,personal"
 info = ["Developer. I ❤️ to build things that help others 🧑"]
 avatarURL = "images/PixaWyvern163.webp"
 # avatarURL = "images/beam80.avif"
@@ -151,13 +151,13 @@ weight = 1
 url = "resume/"
 
 [[languages.en.menu.main]]
-name = "Blog 📰"
+name = "Portfolio 📰"
 weight = 2
 # make posts be a directory again when ready to have a blog.
 # no dir
 # url = "blog/"
 # with dir 
-url = "posts" 
+url = "portfolio/" 
 
 [[languages.en.menu.main]]
 name = "Wiki 📚"
